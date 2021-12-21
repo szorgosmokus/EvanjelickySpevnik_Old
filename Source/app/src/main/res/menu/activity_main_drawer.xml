@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/spevnik">
+        <menu>
+            <group
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_piesne"
+                    android:icon="@drawable/p"
+                    android:title="@string/piesne" />
+                <item
+                    android:id="@+id/nav_antifonyy"
+                    android:icon="@drawable/a"
+                    android:title="@string/antifony" />
+                <item
+                    android:id="@+id/nav_predspevy"
+                    android:icon="@drawable/p"
+                    android:title="@string/predspevy" />
+                <item
+                    android:id="@+id/nav_vecera_panova"
+                    android:icon="@drawable/v"
+                    android:title="@string/vecera_panova" />
+                <item
+                    android:id="@+id/nav_liturgia"
+                    android:icon="@drawable/l"
+                    android:title="@string/liturgia" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/funebral">
+        <menu>
+            <group
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_funebral"
+                    android:icon="@drawable/p"
+                    android:title="@string/piesne" />
+                <item
+                    android:id="@+id/nav_funebral_antifony"
+                    android:icon="@drawable/a"
+                    android:title="@string/antifony_pohrebne" />
+            </group>
+        </menu>
+    </item>
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_pasie"
+            android:icon="@drawable/p"
+            android:title="@string/pasie" />
+    </group>
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/i"
+            android:title="@string/info" />
+    </group>
+
+</menu>

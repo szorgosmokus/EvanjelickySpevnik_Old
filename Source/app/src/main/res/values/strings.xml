@@ -1,0 +1,1019 @@
+<resources>
+    <string name="app_name">Evanjelický spevník</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Zmeniť farebnú schému</string>
+    <string name="title">Evanjelický spevník</string>
+    <string name="song_detail_text">Ťuknutím na ikonku v rohu vyber číslo piesne.</string>
+    <string name="antifony">Antifóny</string>
+    <string name="antifony_pohrebne">Pohrebné antifóny</string>
+    <string name="piesne">Piesne</string>
+    <string name="spevnik">Spevník</string>
+    <string name="pasie">Pašie</string>
+    <string name="funebral">Funebrál</string>
+    <string name="title_activity_main_navigation">Main_navigation</string>
+    <string name="mute">Vypnúť zvonenie</string>
+    <string name="vecera_panova">Večera pánova</string>
+    <string name="predspevy">Predspevy</string>
+    <string name="liturgia">Ďalšia liturgia</string>
+    <string name="info">Informácie</string>
+
+    <string name="choose_item">Vyber položku zo zoznamu</string>
+    <string name="song_number">Číslo piesne</string>
+
+    <string-array name="info_titles">
+        <item>Štruktúra a navigácia</item>
+        <item>Slovo autora</item>
+    </string-array>
+
+    <string-array name="song_titles">
+        <item>1. Hospodine, nebeský Otče ... ML</item>
+        <item>2. Hospodine, Pane ... TG</item>
+        <item>3. Bože, ktorý si stvoril svet... TG</item>
+        <item>4. Veríme v jedného Boha ... JL</item>
+        <item>5. Bože Otče, láska večná</item>
+        <item>6. Čím môžem Ťa privítať ... AH</item>
+        <item>7. Čo Mária panna ... LF</item>
+        <item>8. Hľa, už stojí predo dvermi</item>
+        <item>9. Hosana! Už Kristus prišiel... LF</item>
+        <item>10. Chvála Ti, Bože verný ... AH</item>
+        <item>11. Mnohí svätí proroci ... TG</item>
+        <item>12. Nad hviezd nebeských ... JR/Sk</item>
+        <item>13. Ó, príď, Kriste</item>
+        <item>14. Ó, príď, ó, príď, Emanuel ... OB/AŽ</item>
+        <item>15. Otvárame, Pane Kriste</item>
+        <item>16. Otvorte brány dokorán ... ML</item>
+        <item>17. Prečo stojíš vonku ... AH</item>
+        <item>18. Príď, Kriste, svetlo sveta... TG</item>
+        <item>19. Príď, spasenie ... AH</item>
+        <item>20. Prichádzaš k nám</item>
+        <item>21. Púšťou sa nesie ... JR/AH/sl. 4-5</item>
+        <item>22. Raduj sa a zaplesaj ... ZO/Sk</item>
+        <item>23. Raduj sa, dcéra Sionská ... ZO</item>
+        <item>24. Rosu dajte, ó nebesá ... BK/TG/sl. 5-9</item>
+        <item>25. Sláva Bohu! Boží Syn... DOn</item>
+        <item>26. Veselo spievajme ... ML</item>
+        <item>27. Veseľte sa, veriaci ... ML</item>
+        <item>28. Vitaj, Jezu Kriste ... ML</item>
+        <item>29. V   plnosti času ... JL</item>
+        <item>30. Vzácny čas ... JGL/Sk</item>
+        <item>31. Bože večný, svetla zdroj ... TG</item>
+        <item>32. Hospodine, Studnica dobroty ... ML</item>
+        <item>33. Buď Bohu sláva ... DF/ML/sl. 2-4</item>
+        <item>34. Sláva Ti buď, mocný Bože ... TG</item>
+        <item>35. Boh je Boh jediný ... TG</item>
+        <item>36. Veríme srdečne ... VB</item>
+        <item>37. Aká veľká vec</item>
+        <item>38. Anjeli z nebies výsosti ... JL</item>
+        <item>39. Anjelov spev čujme ... FR</item>
+        <item>40. Buď Bohu česť na výsosti, že ... ML</item>
+        <item>41. Čas radosti ... JGL/ĽT/Sk</item>
+        <item>42. Česť buď na výsostiach ... TG</item>
+        <item>43. Keď sa Kristus narodil ... AŽ</item>
+        <item>44. Kristus, Kráľ náš ... TG</item>
+        <item>45. Kristus, Syn Boží... AH</item>
+        <item>46. Len Tebe srdce dávam ... TG</item>
+        <item>47. Narodil sa Kristus Pán ... ML</item>
+        <item>48. Narodil sa Vykupiteľ ... AH</item>
+        <item>49. Nebo otvorené</item>
+        <item>50. Nuž, kresťania ... AŽ</item>
+        <item>51. Nuž, všetci verní... AŽ</item>
+        <item>52. Ó kresťania, poďme</item>
+        <item>53. Ó ty vianočný ... JGL/AŽ</item>
+        <item>54. Pri jasliach stojím... AŽ/AH/ML</item>
+        <item>55. Radujte sa, ó kresťania ... TG</item>
+        <item>56. Radujte sa, srdečne ... ML</item>
+        <item>57. Slnko z hviezdy už vyšlo ... AZ</item>
+        <item>58. Srdečne sa radujme</item>
+        <item>59. Synu Boží a ľudský ... DŠ</item>
+        <item>60. Tichánoc ... JGL/JL</item>
+        <item>61. Už sa nám púčik rozvil ... AZ</item>
+        <item>62. V   nádhernej noci ... ML</item>
+        <item>63. V  temne vzplála</item>
+        <item>64. Až podnes nám pomáhal ... ML</item>
+        <item>65. Česť vzdajme Pánu ... AH</item>
+        <item>66. Rok starý zavierame ... TG</item>
+        <item>67. Večný Bože v milosti ... JL</item>
+        <item>68. Aj tohoto roku ... Sk</item>
+        <item>69. Čuj naše prosby ... TG</item>
+        <item>70. Daj, nech sa nám ... JM</item>
+        <item>71. Hospodinu podajme ruku ... IK/ML/Sk</item>
+        <item>72. Ježiš, meno ... TG</item>
+        <item>73. Ježiš, to Dieťa ... AH</item>
+        <item>74. Ľud Boží, vitaj</item>
+        <item>75. Nový rok som zase dožil</item>
+        <item>76. Rok nový zase k nám prišiel ... ML</item>
+        <item>77. Povstaň a hľaď ... JL</item>
+        <item>78. Chvála Tebe, Otče ... TG</item>
+        <item>79. Prepusť, prepusť ... JGL/Sk</item>
+        <item>80. Hospodine, náš milý Otče ... ML</item>
+        <item>81. Hospodine, Ty si Boh svätý ... TG</item>
+        <item>82. Veríme v jediného ... TG</item>
+        <item>83. Verme v Boha jedného ... ML</item>
+        <item>84. Ajhľa, práve Ježiš milý ... Sp/JL/sl. 2-7</item>
+        <item>85. Aj za mňa si mrel ... TG</item>
+        <item>86. Baránok, hľa... AH</item>
+        <item>87. Čo si učinil... ML</item>
+        <item>88. Dokonané ... TG</item>
+        <item>89. Drahý Spasiteľ náš ... JL/MK</item>
+        <item>90. Jezu Kriste, Pane milý ... JMa/Sk</item>
+        <item>91. Jezu, Tvoje hrozné rany ... ML</item>
+        <item>92. Ježiš, Pán života ... JGL/Sk</item>
+        <item>93. Keď na kríži</item>
+        <item>94. Kriste, muž bolesti ... ML</item>
+        <item>95. Kto bol tak nevinný ... TG</item>
+        <item>96. Ku krížu sa utiekam ... ML</item>
+        <item>97. Láska svätá ... JR/LF</item>
+        <item>98. Môj Ježiši ... JP</item>
+        <item>99. Nebeský Pán ... Sp</item>
+        <item>100. Nevinnosťpremilá ... AŽ/Sk</item>
+        <item>101. Noc pokryla tiché stráne</item>
+        <item>102. Ó Hlava ubolená ... ML</item>
+        <item>103. Ó Ježiši, Kráľu tichý</item>
+        <item>104. Ó krv drahá ... ML</item>
+        <item>105. Pane, tisíckrát vítam Ta ... AH</item>
+        <item>106. Päť studní je... JFa/OF</item>
+        <item>107. Plesajme radostne, priatelia</item>
+        <item>108. Pod kríž Tvoj padám</item>
+        <item>109. Poďakujme Kristu Pánu ... TG</item>
+        <item>110. Pred Tebou sa skláňame ... JL</item>
+        <item>111. Rozmýšľajme dnes ... TG</item>
+        <item>112. Smutný čas ... JK</item>
+        <item>113. Tam na kríži</item>
+        <item>114. Ten na kríži ... TG</item>
+        <item>115. Umučenie drahého ... AZ</item>
+        <item>116. V   smutnej chvíli</item>
+        <item>117. V  tomto tichom</item>
+        <item>118. Vznes sa k Bohu ... AŽ/Sk</item>
+        <item>119. Vždy, keď sa hriechov desím ... ML</item>
+        <item>120. Zakvíľ. spev môj ...AH</item>
+        <item>121. Bože Otče, Ty si mocne ... ML</item>
+        <item>122. Hospodine, Bože Otče ... TG</item>
+        <item>123. Sláva a česť ... ML</item>
+        <item>124. Sláva Bohu, sláva ... TG</item>
+        <item>125. Veríme v Boha večného, Stvoriteľa ... TG</item>
+        <item>126. Veríme vo všemocného ... ML</item>
+        <item>127. Bremeno ťažké ... AŽ/TG</item>
+        <item>128. Darmo plesá ... Sk</item>
+        <item>129. Deň vzkriesenia Pánovho ... AZ</item>
+        <item>130. Haleluja! Chválime Ťa</item>
+        <item>131. Haleluja! Chvály znejte</item>
+        <item>132. Ja viem, že žije ... IK</item>
+        <item>133. Jezu Kriste, Vykupiteľu ... JGL</item>
+        <item>134. Ježiš Kristus Nazaretský ... AŽ</item>
+        <item>135. Ježiš v tretí deň vstal ... TG</item>
+        <item>136. Ježiš žije ... ML/JL</item>
+        <item>137. Kristus Pán vstal, radujme sa ... JL</item>
+        <item>138. Kristus Pán vstal slávne</item>
+        <item>139. Kristus Pán vstal z mŕtvych ... JGL</item>
+        <item>140. Kristus žije, život náš ... JL</item>
+        <item>141. Nastal nám čas ... ML/JR/sl. 4</item>
+        <item>142. Nebojte sa, nedeste sa ... OA</item>
+        <item>143. Ó kresťania, vzdajme chválu ... TG</item>
+        <item>144. Ó Slnko žitia môjho</item>
+        <item>145. Pokoj vám ... TG</item>
+        <item>146. Slnko svetlom nádherným ... ML</item>
+        <item>147. Už skvie sa ráno ... LF/KW</item>
+        <item>148. Veseľ sa, celý svet... JL</item>
+        <item>149. Vitaj, Víťaz náš ... ML</item>
+        <item>150. Víťaz nad smrťou ... AŽ</item>
+        <item>151. Vrúcne všetci plesajme</item>
+        <item>152. Vstal z mŕtvych ... ML</item>
+        <item>153. Vstaň, srdce ... ML</item>
+        <item>154. Všetci, čo túžite ... AŽ</item>
+        <item>155. V  tretí deň Kristus z mŕtvych vstal ... KW</item>
+        <item>156. Žije Ježiš ... AH</item>
+        <item>157. Zmiluj sa, Bože ... ML</item>
+        <item>158. Veríme všetci v jediného ... TG</item>
+        <item>159. Do neba. do neba ... ML/MK/sl. 1</item>
+        <item>160. Kriste, Spasiteľu náš ... Sk</item>
+        <item>161. Náš Pán kraľuje, s Otcom ... BK/AŽ/sl. 2</item>
+        <item>162. Natri miesta ... ML</item>
+        <item>163. Pane môj, ja tu zostávam ... JL</item>
+        <item>164. Slávne nebeské výšiny ... TG</item>
+        <item>165. Bože Duchu dokonalý ... TG</item>
+        <item>166. Bože, hriechy vyznávame ... ML</item>
+        <item>167. Sláva Tebe, Duchu moci ... TG</item>
+        <item>168. Sláva Ti buď na výsosti ... ML</item>
+        <item>169. Boh je Duch ...TG</item>
+        <item>170. Veríme všetci v Boha jedného ... ML</item>
+        <item>171. Ako čerstvú vodu ... ML</item>
+        <item>172. Duch Pánov ... TG</item>
+        <item>173. Duch Svätý na učeníkov</item>
+        <item>174. Duchu Svätý z výsosti ... Sk</item>
+        <item>175. Ó, Duchom Svätým naplň nás</item>
+        <item>176. Ó najsladšia moja radosť ... ML/AŽ/sl. 4</item>
+        <item>177. Ó, príď, Duchu Svätý ... ML</item>
+        <item>178. Príď, Duchu Svätý ... JDB</item>
+        <item>179. Prosme vrúcne ... TG</item>
+        <item>180. V  túžobnom očakávaní... TG</item>
+        <item>181. Zošli Ducha Svätého nám ... ML</item>
+        <item>182. Hľaďte, hľaďte ... ML</item>
+        <item>183. O, prenesmierne bohatstvo</item>
+        <item>184. Oslávme Boha svätého ... AH</item>
+        <item>185. Teba dnes chválime ... MK</item>
+        <item>186. Bože lásky, Otče ... TG</item>
+        <item>187. Bože, Otče dobrotivý ... Sk</item>
+        <item>188. Bože, Otče večnosti ... KW</item>
+        <item>189. Hospodine, Stvoriteľ náš</item>
+        <item>190. Hospodine, večný Pane</item>
+        <item>191. Hospodine všemohúci ... ML</item>
+        <item>192. Kyrieelejson ...TG</item>
+        <item>193. Pane, zmiluj sa... KW</item>
+        <item>194. Vieme to, Pane Bože náš ... AH</item>
+        <item>195. Z hĺbky srdca ... AH</item>
+        <item>196. My všetci veríme ... MK</item>
+        <item>197. Veríme v Boha jediného ... AB</item>
+        <item>198. Veríme v Boha jedného ... JP</item>
+        <item>199. Veríme v Boha Stvoriteľa ... TG</item>
+        <item>200. Veríme v Boha večného, On je ... JL</item>
+        <item>201. Verme v Boha Otca ... ML</item>
+        <item>202. Verme v mocného Boha ... JL</item>
+        <item>203. V   jedného Boha veríme ... KW</item>
+        <item>204. Všemohúci, Bože náš, Tebe</item>
+        <item>205. Aké milé miesto ... ML</item>
+        <item>206. Bože dobrý, svätý Pane ...TG</item>
+        <item>207. Bože veľký od večnosti ... ML</item>
+        <item>208. Bože, v tomto svätom chráme ... AH</item>
+        <item>209. Keď svitol deň nedeľný</item>
+        <item>210. Ódeňnedeľný ... FR</item>
+        <item>211. Otvorte mi krásnu bránu ... ML</item>
+        <item>212. O, vitaj v svojej jasnosti ... AH</item>
+        <item>213. Svätým dňom je Pánov deň ... ML</item>
+        <item>214. Vitaj nám, deň zasvätený ... JL</item>
+        <item>215. Všetci my verní... AH</item>
+        <item>216. Ježiši, Pane, skloň sa k nám ... JGL</item>
+        <item>217. Milosrdný Bože náš ... TG</item>
+        <item>218. Milý Pane ... ML</item>
+        <item>219. Prišli sme, ó Ježiši</item>
+        <item>220. Bože, buď požehnaný ... TG</item>
+        <item>221. Bože večný, nepremenný</item>
+        <item>222. Kráľ večný nás požehnaj ... MK</item>
+        <item>223. Milosť Pána</item>
+        <item>224. Poďakujme Pánovi... TG</item>
+        <item>225. Sláva Ti buď, Bože náš ... TG</item>
+        <item>226. Spev, prosby a kázanie ... ML</item>
+        <item>227. Za dar slova</item>
+        <item>228. Ako by som, Tvorca sveta ... JR</item>
+        <item>229. Boh náš je láska</item>
+        <item>230. Boh sa o mňa stará ... ZO/AZ</item>
+        <item>231. Bože môj, pod Tvojím nebom ... TG</item>
+        <item>232. Chváľ každý tvor Stvoriteľa ... JL</item>
+        <item>233. Kráľu nebies</item>
+        <item>234. Nech kamkoľvek pozriem ... TG</item>
+        <item>235. Ó kresťania, chválu vzdajme ... JMn/MK</item>
+        <item>236. Ó láska Božia v Kristu</item>
+        <item>237. Pán Boh je prítomný ... TG</item>
+        <item>238. Slávže, duša ... Sk</item>
+        <item>239. Svätý od vekov ... AH</item>
+        <item>240. Teba vďačne chválim</item>
+        <item>241. Vševedúci Bože ... LK</item>
+        <item>242. Jak tá jasná hviezda ... DOnATG</item>
+        <item>243. Ježiši, Ty si od vekov ... MSa/AŽ</item>
+        <item>244. Kristus, príklad pokory ... AŽ/MK</item>
+        <item>245. Ó láska Božia, láska večná ... BK</item>
+        <item>246. Pane, keď hľadím ... TG/JL</item>
+        <item>247. Panuj, Kriste... TG</item>
+        <item>248. Radosť moja ... TG/AŽ</item>
+        <item>249. Tá pravda ma obživuje ... JR/AŽ</item>
+        <item>250. Včera, dnes i na večnosť</item>
+        <item>251. Duchu Svätý, Teba dnes</item>
+        <item>252. Ó Duchu Svätý, žiadame všetci</item>
+        <item>253. Otče náš, milý Pane ... ML</item>
+        <item>254. Príď, ó, príď k nám ... JL</item>
+        <item>255. Príď, Stvoriteľ ... TG</item>
+        <item>256. Zavítaj z trónu svojho ... TG</item>
+        <item>257. Zošli Ducha Svätého, keď ... AH</item>
+        <item>258. Ach, Bože, zhliadni ... AŽ/ML</item>
+        <item>259. Ach, zostaň, Kriste, s nami ... JL</item>
+        <item>260. Bože veľký, milostivý ... AH</item>
+        <item>261. Cirkev je chrám Najvyššieho ... ML</item>
+        <item>262. Cirkev je chrámom ... AH</item>
+        <item>263. Hradprepevný ... MK</item>
+        <item>264. Ježiš je svojej ... TG</item>
+        <item>265. Ježiši, Tvoje slovo ... ML</item>
+        <item>266. Keby Pán Boh nebol s nami ... AH</item>
+        <item>267. Kresťania, pamätajme ... AH</item>
+        <item>268. Kriste, obranca ... ML</item>
+        <item>269. Kriste, svoju si na skale ... JFa</item>
+        <item>270. Milý Sion, upokoj sa ... JL</item>
+        <item>271. Nezúfaj, stádočko malé ... JL/MK</item>
+        <item>272. Od vekov v Teba dúfali sme ... EBL</item>
+        <item>273. Ó, príď už, príď, čas ... TG</item>
+        <item>274. Plesajme srdečne</item>
+        <item>275. Pri spomienke ... TG/JL</item>
+        <item>276. Sionkvíli...TG</item>
+        <item>277. Ty vieš, Bože ... ML</item>
+        <item>278. Vzbuď ducha dávnych svedkov ... JL/AZ</item>
+        <item>279. Boh je môj hrad ... JL</item>
+        <item>280. Bože, Tvoje slovo ... TG</item>
+        <item>281. Bože, Ty si mocným slovom ... AH</item>
+        <item>282. Bože, Ty si svetla prameň ... TG</item>
+        <item>283. Drahý Kriste, za to čisté ... AH</item>
+        <item>284. Chráň ma, Pane ... ML</item>
+        <item>285. Nech nám je Boh milostivý ... JL/AŽ</item>
+        <item>286. Svetlo sveta ... MSa</item>
+        <item>287. Všetci, ktorí milujete ... JH/AZ</item>
+        <item>288. Zachovaj nás ... ML</item>
+        <item>289. BožeaOtče... AŽ</item>
+        <item>290. Kriste, Ty si ustanovil</item>
+        <item>291. Meno kresťan</item>
+        <item>292. Som v Tvoje meno ... ML</item>
+        <item>293. Všetci sme z rodu nového ... TG</item>
+        <item>294. Vypočuj našich prosieb hlas ... TG</item>
+        <item>295. Z rozkazu Pána ... TG</item>
+        <item>296. Ach, ja biedny, ja úbohý ... JH/AŽ</item>
+        <item>297. Duša, draho vykúpená ... JH/AŽ</item>
+        <item>298. Ježiša neopustím, duša ... TG</item>
+        <item>299. Kresťania, stále ... AH</item>
+        <item>300. Pane, Ty si nám nehodným ... ML/MK</item>
+        <item>301. Pripravuj sa, duša ... ML/MK</item>
+        <item>302. Tu je ticho</item>
+        <item>303. Túžba moja, Ježiši ... TG</item>
+        <item>304. Za Tvoju lásku ... TG</item>
+        <item>305. Bože, prosbu čuj ... MSa</item>
+        <item>306. Bože večný, prosíme Ťa ... TG</item>
+        <item>307. Bože verný, Bože ... AŽ/ML</item>
+        <item>308. Modli sa často... TG/AŽ</item>
+        <item>309. Môj Bože, darcom si ... TG/Sk</item>
+        <item>310. Nepoznám sladšie potešenie ... AH</item>
+        <item>311. O Pane, počuj</item>
+        <item>312. O všemohúci Bože náš ... DF</item>
+        <item>313. Otče môj, tak vysoko si</item>
+        <item>314. Otče náš milý nebeský ... AŽ/MK</item>
+        <item>315. Svieť, svetlo, svieť... FR</item>
+        <item>316. Tvoja milosť presahuje ... AŽ/MK</item>
+        <item>317. V   modlitbe bývaj vytrvalý ... JFa/AŽ</item>
+        <item>318. V  tichosti ...TG</item>
+        <item>319. Žehnajúce ruky ... AH</item>
+        <item>320. Ach, čo smutný ... JL</item>
+        <item>321. Ach, ja biedny, úbohý ... JK/ML</item>
+        <item>322. Ach, môj Bože ... AŽ/MK</item>
+        <item>323. Ach, môj Bože, kto pomôže ... ML</item>
+        <item>324. Ach, sladké slová ... ML/JL/sl. 4</item>
+        <item>325. Blahoslavený je, ten ... AH</item>
+        <item>326. Kajúcne so slzami... JL/ML/sl. 2-3</item>
+        <item>327. Kde si, môj Ježiši ... AŽ</item>
+        <item>328. Ľutujem, že som zhrešil... TG</item>
+        <item>329. Nespomínaj, Bože</item>
+        <item>330. Ó drahý Kriste, Pane môj</item>
+        <item>331. Odvráť, ó Bože ... AH</item>
+        <item>332. Pokánie čiňme ... TG</item>
+        <item>333. Srdce čisté, stvor mi ... TG</item>
+        <item>334. Z hlbokosti k Tebe volám ... JGL/AŽ</item>
+        <item>335. Zmiluj sa a zľutuj sa ... ML</item>
+        <item>336. Bože, od Teba všetko máme ... ML</item>
+        <item>337. Buď Bohu česť na výsosti za ... AŽ</item>
+        <item>338. Buď chvála Tebe, Bože ... AH/TG</item>
+        <item>339. Buď chvála Ti, Bože ... MSa</item>
+        <item>340. Čo žiadaš od nás. Pane ... AH</item>
+        <item>341. Ďakujte Bohu ... AŽ/ML</item>
+        <item>342. Duša, Boha oslavuj, chváľ... TG ..</item>
+        <item>343. Chvála Tebe, Bože náš</item>
+        <item>344. Chváľ, duša ... ML</item>
+        <item>345. Chváľme dnes Pána ... KW/AH</item>
+        <item>346. Chváľte Boha večného ... ML</item>
+        <item>347. Chváľte Hospodina ... AH</item>
+        <item>348. Každý kvet</item>
+        <item>349. Náš Pán kraľuje, slávne ... ML</item>
+        <item>350. Nuž, Bohu ďakujme ... AH/Sk</item>
+        <item>351. Nuž, všetci slávme ... ML</item>
+        <item>352. Ó, by som tisíc jazykov mal ... ML</item>
+        <item>353. Ó kresťania, Boha chváľme ... JR/TG</item>
+        <item>354. Oslavuj, cirkev, Pána</item>
+        <item>355. Oslavuj Pána... AŽ/AH/Sk</item>
+        <item>356. Pánovi zvučne ... AH</item>
+        <item>357. Sláva Bohu na výsosti ... TG</item>
+        <item>358. Sláva Bohu Otcu</item>
+        <item>359. Slávme Boha Otca</item>
+        <item>360. Spievajte Bohu nové piesne ... LF</item>
+        <item>361. Spievať pieseň novú ... ML</item>
+        <item>362. Toto je deň</item>
+        <item>363. Vďaka Ti, Bože, nebeský ... JV</item>
+        <item>364. Vďaka Ti za žatvu, Bože</item>
+        <item>365. Veľký si náš, Bože svätý</item>
+        <item>366. Vznesme srdcia k výšinám</item>
+        <item>367. Ako vtáča spevavé</item>
+        <item>368. Bože Otče, buď Ti chvála ... ML</item>
+        <item>369. Ďakujem, milý Pane... AŽ/TG/sl. 5</item>
+        <item>370. Ďakujem Ti, ó Najvyšší... ML/TG</item>
+        <item>371. Hospodine, počuj hlas môj ... TG</item>
+        <item>372. Chvála buď na výsosti ... ML</item>
+        <item>373. Ježiši milosrdný ... ML</item>
+        <item>374. Keď zasvitnú ranné zore ... IK</item>
+        <item>375. Minula nočná hodina ... TG/VB</item>
+        <item>376. Môj Bože, opäť svetlo vidím ... TG</item>
+        <item>377. Nádherný je svit... ML</item>
+        <item>378. Ó duša, nespi</item>
+        <item>379. Od východu jasné svetlo ... TG</item>
+        <item>380. Opäť sme vstali ... AH</item>
+        <item>381. Oslávme Pána ... AŽ</item>
+        <item>382. Otče svetiel ... TG</item>
+        <item>383. Pane mocný ... TG</item>
+        <item>384. Prebuď sa, duša ... MK</item>
+        <item>385. S Bohom začínam ... AH</item>
+        <item>386. Slnko spravodlivosti ... AH</item>
+        <item>387. Už slnko vychádza ... JFa</item>
+        <item>388. Už svitá... DA/MK</item>
+        <item>389. Už vidím s plesaním ... JL</item>
+        <item>390. Vďaka Ti, ó Bože náš</item>
+        <item>391. Vďaku Bohu vzdajme ... ML</item>
+        <item>392. V   mene Ježišovom vstávam ... TG</item>
+        <item>393. Vstali sme a hneď za rána ... ML</item>
+        <item>394. V  tejto rannej chvíli ... AH</item>
+        <item>395. Z celého srdca svojho ... AŽ/JL</item>
+        <item>396. Zlatistý slnka jas ... JL</item>
+        <item>397. Buď Hosťom naším ... Sk</item>
+        <item>398. Otče náš, pri tomto stole ... ML</item>
+        <item>399. Všemohúci Bože náš, Ty ... JGL/Sk</item>
+        <item>400. Buď Ti chvála ... MK</item>
+        <item>401. Ku Tebe, Otče ... JL</item>
+        <item>402. Nuž chválu vzdajme Bohu ... MK</item>
+        <item>403. Otče, všetko živé ... TG</item>
+        <item>404. Príkladom Pána Ježiša ... ML</item>
+        <item>405. Sláva buď Tebe, Bože náš ... JP</item>
+        <item>406. Sviatočný deň</item>
+        <item>407. Teba, Otče, vrúcne ctíme ... TG</item>
+        <item>408. Tebe patrí vďaka ... ML</item>
+        <item>409. Ach, jak všetko ... ML</item>
+        <item>410. Bože náš, požehnaj</item>
+        <item>411. Buď vďaka Tebe, Bože náš</item>
+        <item>412. Ďakujeme, Ochranca náš ... AŽ</item>
+        <item>413. Deň nedeľný sa končí zas ... ML/AZ</item>
+        <item>414. Deň odchádza ... JL</item>
+        <item>415. Deň zase pominul ... TG</item>
+        <item>416. Dušamoja,rozpomeňsa...AŽ</item>
+        <item>417. Hasne slnko</item>
+        <item>418. Hľa, nastáva už nočný čas ... AH</item>
+        <item>419. Ježiši, Spasiteľu môj ... AH</item>
+        <item>420. Keď mesiac svieti krásne ... AH</item>
+        <item>421. Keď sa priblížil ... TG</item>
+        <item>422. Keď sme prácu .. .TG</item>
+        <item>423. Končíme tento týždeň ... AŽ/MK</item>
+        <item>424. Kriste, Ty si svetlo ... TG</item>
+        <item>425. K večeru deň sa nachýlil ... ML</item>
+        <item>426. Na lôžko idúc ... TG</item>
+        <item>427. Na sklonku dňa ... AH</item>
+        <item>428. Noc je predo dvermi ... LF</item>
+        <item>429. Oči svoje už zavieram ... JL</item>
+        <item>430. Pane dní a Pane nocí... DO/Sk</item>
+        <item>431. Tmy šumia</item>
+        <item>432. Utíchla už vrava</item>
+        <item>433. Už zmĺkli. Bože, búrky</item>
+        <item>434. Večerné keď zvony znejú ... AH</item>
+        <item>435. V   podvečer, keď sa zmráka ... AH</item>
+        <item>436. Za opatrovanie dobré ... LF</item>
+        <item>437. Zas deň jeden z nášho žitia</item>
+        <item>438. Zlaté slnko ... ĽF</item>
+        <item>439. Zostaň pri nás ... FR/Sk</item>
+        <item>440. Zostaň so mnou</item>
+        <item>441. Ach či divne ... ML</item>
+        <item>442. Blahoslavený človek je ... JL</item>
+        <item>443. Človeče, chceš byť spasený... AH/TG</item>
+        <item>444. Dobroty lásky plný ... ML/AŽ/MK</item>
+        <item>445. Dopraj mi s Tebou ... AH</item>
+        <item>446. Emanuel milý ... AŽ/JL</item>
+        <item>447. Chcel by som, Bože ... JL</item>
+        <item>448. Chcem Ťa milovať ... TG</item>
+        <item>449. Jeden poklad ... TG</item>
+        <item>450. Ježiša nenechám ... TG</item>
+        <item>451. Ježiša neopustím, lebo ... Sk</item>
+        <item>452. Ježiši, ako chceš ... TG/MK</item>
+        <item>453. Ježiši, drahý poklad môj ... ZO</item>
+        <item>454. Ježiši, keď sa Tvoja ... AŽ/MK</item>
+        <item>455. Ježiši, nad med je sladšie ... ML</item>
+        <item>456. Ježiši, Ty sám ... JL</item>
+        <item>457. Ježiši, života môjho ... ML</item>
+        <item>458. Ježiš ma miluje ... TG</item>
+        <item>459. Ježiš, moja radosť... Sk</item>
+        <item>460. Kdesi,môjpremilý... JK</item>
+        <item>461. Kiež viac Ťa milujem ... VBa/sL 2/Sk</item>
+        <item>462. K Tebe, Bože všemohúci, vzhliadam ... AH/MK/sl. 2.7</item>
+        <item>463. Môjho Pána Ježiša ... JL</item>
+        <item>464. Nádej, milá nádej ... AH</item>
+        <item>465. Niet inej cesty</item>
+        <item>466. Ó Ježiši Kriste</item>
+        <item>467. Ó, nech mi nikto nehovorí... AH</item>
+        <item>468. Ó, poďte ku mne všetci... AŽ</item>
+        <item>469. O Synu Boží... LF</item>
+        <item>470. Pamätaj, človeče ... JL</item>
+        <item>471. Pán blahoslaví... LF/AŽ</item>
+        <item>472. Rád poddávam sa ... JR/AŽ/MK</item>
+        <item>473. Sám, Pane Bože ... Sk</item>
+        <item>474. Skala vekov ... MR/MSa</item>
+        <item>475. Smieť žiť pre Krista</item>
+        <item>476. Takto volá ... AŽ</item>
+        <item>477. Tri sú veci ... ML</item>
+        <item>478. Tu som, Pane</item>
+        <item>479. Volám k Tebe ... LF/JL</item>
+        <item>480. V svete hriecha, bludu</item>
+        <item>481. Všetci, čo skladajú ... ML</item>
+        <item>482. V  Tebe, drahý Pane ... ML</item>
+        <item>483. Vyznávaš kresťan som ... ML/AŽ/MK</item>
+        <item>484. Za ruku veď ma, Pane ... JL/Sk</item>
+        <item>485. Bože, Ty poznáš cesty ... AH</item>
+        <item>486. Dobré koná ... JFa/ML/AŽ</item>
+        <item>487. Kristova krv ... TG</item>
+        <item>488. Kto v ochrane Najvyššieho ... LF/AŽ</item>
+        <item>489. Ktože bude môcť žalovať... AH</item>
+        <item>490. Mne dostalo sa zmilovania ... Sk</item>
+        <item>491. Na Krista svoje hriechy ... JL/Sk</item>
+        <item>492. Neopusť, duša moja ... AŽ</item>
+        <item>493. Ó, veď ma sám ... MR/Sk</item>
+        <item>494. Pán Boh sila moja... JKH</item>
+        <item>495. Pane, vierou osvieť ma ... TG</item>
+        <item>496. Viac bázne ... DA/LF</item>
+        <item>497. Z nesmiernej Božej milosti ... JL</item>
+        <item>498. Ži krásne ... KR</item>
+        <item>499. Ach, Bože, vyslyš ... AH</item>
+        <item>500. Aj keď ma Pán Boh zavše tresce ... ML</item>
+        <item>501. Akže musím ... AŽ</item>
+        <item>502. Akže sme už ... MK/ML/sl. 2</item>
+        <item>503. Bohu zver svoje cesty ... AH/AŽ/MK</item>
+        <item>504. Cez súženie k vykúpeniu ... TG</item>
+        <item>505. Čímväčšíkríž...ML</item>
+        <item>506. Čo Boh činí, to dobré je ...TG</item>
+        <item>507. ČomôjBohchce...JGL/JFa/AZ</item>
+        <item>508. Dosť. dosť už ... AH</item>
+        <item>509. Dúfaj v Boha ... LF</item>
+        <item>510. Dvíham oči ... JL</item>
+        <item>511. Hospodine, Otče milý ... DF</item>
+        <item>512. Hospodin sám je Pastier ... JL/Sk</item>
+        <item>513. Ja v Boha milého ... IK/AŽ</item>
+        <item>514. Keď kríž ma tlačí... JL</item>
+        <item>515. Keď mi je srdce smutné ... TG</item>
+        <item>516. Keď sa bieda ... ML</item>
+        <item>517. Keď sa skúška viery blíži</item>
+        <item>518. Keď v biedach ... AŽ/JL</item>
+        <item>519. K Tebe, ó Bože môj ... MRs/Sk</item>
+        <item>520. Kto dá mi sily</item>
+        <item>521. Kto len na Boha sa spolieha ... AH</item>
+        <item>522. Kvílim žalostivo ... TG</item>
+        <item>523. Nermúť sa príliš ... TG</item>
+        <item>524. Ó Pane, zmiluj sa nad nami ... TG</item>
+        <item>525. Pán Boh mi je silou ... MK</item>
+        <item>526. Pokorne, tíško ... AH/TG</item>
+        <item>527. Prečo sa toľko rmútiš ... AH</item>
+        <item>528. Strašná búrka ... AH .</item>
+        <item>529. Stvoriteľ, Bože náš ... TG</item>
+        <item>530. Tichosť, tichosť vôkol</item>
+        <item>531. Vo všetkom počínaní... AH</item>
+        <item>532. Teba som, ó môj Bože ... ML</item>
+        <item>533. Zaslúžil som ... DŠ</item>
+        <item>534. Bože, Tvoje prikázania ... AH</item>
+        <item>535. Môj Bože, i keď Ty prebývaš ... ZO</item>
+        <item>536. Môj Bože, Ty si až podnes ... LF</item>
+        <item>537. Môj Otče dobrý ...TG/JL</item>
+        <item>538. Prečože zabúdame ... TG</item>
+        <item>539. V Bohu, srdce, teš sa ... AH</item>
+        <item>540. Aké mám poslanie ... LF</item>
+        <item>541. Ísť cestou striezlivosti... LF</item>
+        <item>542. Keď Duch Svätý ... DF</item>
+        <item>543. Ó Bože, daj mi z výsosti ... TG</item>
+        <item>544. O spásu a život večný ... LF</item>
+        <item>545. Srdce čisté, vierou živé ... JL</item>
+        <item>546. Trpezlivosť mať musíš ... JR/ML/MK</item>
+        <item>547. Aká ľúbezná ... TG</item>
+        <item>548. Boh náš je Bohom lásky ... JFa</item>
+        <item>549. Cnosť je sýtiť lačného ... TG</item>
+        <item>550. Kriste, nech sa Ti podobný byť snažím ... DŠ</item>
+        <item>551. Nedaj na hriech iných</item>
+        <item>552. Ó láska večná ... TG</item>
+        <item>553. Štedrý Darca</item>
+        <item>554. Také mi srdce daj ... AŽ</item>
+        <item>555. Bože, požehnaj z nebies</item>
+        <item>556. Jak pekne je ... ML</item>
+        <item>557. Ty sám si, Bože ... LF</item>
+        <item>558. Bože, Otče všetkých ľudí... JH</item>
+        <item>559. Ja a dom môj ... ML</item>
+        <item>560. Môj Bože, ktorý učil si ma</item>
+        <item>561. Muž, čo v bázni Božej stojí... JH</item>
+        <item>562. Ak chceš ako kresťan ... DF</item>
+        <item>563. Bože, vdaku Ti vzdávame</item>
+        <item>564. Kto za pravdu horí</item>
+        <item>565. Ó Pane drahý ... AŽ</item>
+        <item>566. Za ľudí celého sveta ... JH</item>
+        <item>567. Aby sme vždy ... TG</item>
+        <item>568. Aj keď sme v mnohom rozdelení... ML</item>
+        <item>569. Kristus Pán Východ nepozná ... EBL</item>
+        <item>570. Tam z diaľnych sveta krajov ... ML</item>
+        <item>571. Bože, daruj svetu pokoj ... AŽ</item>
+        <item>572. Buď na zemi pokoj</item>
+        <item>573. Daj, Bože. pokoja</item>
+        <item>574. Horkpráci ... FR/Sk</item>
+        <item>575. Ó Bože, Darca požehnania ... TG/sl. 2</item>
+        <item>576. O Pane náš</item>
+        <item>577. Začíname prácu</item>
+        <item>578. Aj, prvý vzdych</item>
+        <item>579. Chválime Ťa, Bože ... AH</item>
+        <item>580. Ó, plesaj, cirkev</item>
+        <item>581. Plesajme radostne, kresťania ... TG</item>
+        <item>582. Pozdvihni sa na Sione</item>
+        <item>583. Ó Bože, svojho požehnania</item>
+        <item>584. Ó Kriste, Pastieru ... DF</item>
+        <item>585. Zaplesaj, ľud</item>
+        <item>586. Ó buď Ti chvála</item>
+        <item>587. Ó, skloň sa z nebies ... TG</item>
+        <item>588. Pane, Ty máš zaľúbenie ... ML</item>
+        <item>589. Pohliadni na nás... ML</item>
+        <item>590. Čuj, aká prekrásna pieseň... KR/VB</item>
+        <item>591. Hej, pastieri</item>
+        <item>592. Na nebesiach nad Betlemom</item>
+        <item>593. Opolnoci ... KW</item>
+        <item>594. Počúvajte, kresťania</item>
+        <item>595. Prišiel k nám Boží Syn</item>
+        <item>596. Sem sa, všetci</item>
+        <item>597. Už Spasiteľ sa narodil ... JL</item>
+        <item>598. Bol si tam</item>
+        <item>599. Haleluja! Radostnú zvesť ... KW</item>
+        <item>600. Kristus vstal z mŕtvych ... DOn</item>
+        <item>601. Plesajme, kresťania... JV</item>
+        <item>602. Raduj sa a plesaj ... KW</item>
+        <item>603. Spasiteľu, Kriste ... DF</item>
+        <item>604. Vezmi chlieb</item>
+        <item>605. Vojdite, plesajme ... KW</item>
+        <item>606. Žehnaj a ochraňuj nás ... BK</item>
+        <item>607. Vďaka za toto krásne ráno ... OP</item>
+        <item>608. Noc šíry už halí kraj</item>
+        <item>609. Slnko za vrch zapadá ... AŽ</item>
+        <item>610. Spánku čas ... KW/JL</item>
+        <item>611. Ustatý som ... JL</item>
+        <item>612. Už slnko zašlo ... VBa</item>
+        <item>613. Absolón</item>
+        <item>614. Blažený ten ...TG</item>
+        <item>615. Boh nikdy slovo ... DF</item>
+        <item>616. Boh stvoril svet... LF</item>
+        <item>617. Hosana, Bože... JL</item>
+        <item>618. Chváľte Pána Ježiša</item>
+        <item>619. Ja vravím vtedy ... LF</item>
+        <item>620. Keď Mojžiš s ľudom Božím</item>
+        <item>621. Keď otvorím Písmo ... JV</item>
+        <item>622. Keď rozsievač ... JL</item>
+        <item>623. Knieža mieru ... JL</item>
+        <item>624. K trónu slávy</item>
+        <item>625. Mier na zemi... JMk/LF</item>
+        <item>626. Muž múdry ...MR</item>
+        <item>627. Na nebeských vtáčkov pozri ... JL</item>
+        <item>628. Nebeský Bože, Tvorca ... JMk/LF</item>
+        <item>629. Ó láska nesmierna ... AŽ</item>
+        <item>630. On je kráľov Kráľ</item>
+        <item>631. Pane, daruj mi</item>
+        <item>632. Pane, chcem byť dobrý kresťan ,</item>
+        <item>633. Pane, prúdom svojho žehnania ... MR</item>
+        <item>634. Pane, vieru daj</item>
+        <item>635. Pánovi znej spev ... JL</item>
+        <item>636. Pomôž, Bože večný ... MK</item>
+        <item>637. Predivná moc ... AH/LF</item>
+        <item>638. Pre Krista v boj ...EM</item>
+        <item>639. Prišiel Syn Boží</item>
+        <item>640. Raz na púšti ... BK</item>
+        <item>641. Spasiteľu, Pane môj ... JPk</item>
+        <item>642. Šla svetom láska ... JMk/LF</item>
+        <item>643. Taký, hľa, som ... AH</item>
+        <item>644. Teba vzývam</item>
+        <item>645. To ja, ó Pane môj</item>
+        <item>646. Učiň ma, Bože ... KK</item>
+        <item>647. V bludišti sveta ... LF/JMk</item>
+        <item>648. Vezmi, Pane, život môj ... MRo</item>
+        <item>649. V   srdciach nech nám ...MRo/MSa</item>
+        <item>650. Všetci, čo sme ... BK/TG</item>
+        <item>651. Výčitky ma sužujú</item>
+        <item>652. Vzácna to a veľká radosť</item>
+        <item>653. Za oných dávnych čias ... JL</item>
+        <item>654. Zbohom si dajme ... MK</item>
+        <item>655. Zhliadni na mňa ... GV/DA</item>
+        <item>656. Kánony ... KW</item>
+        <item>657. Žalmy</item>
+        <item>658. Ach, milý Pane</item>
+        <item>659. Aký biedny, aký krátky ... AŽ/MK</item>
+        <item>660. Čas náš ako krásne leto ... AŽ/MK</item>
+        <item>661. Čo sa toľko staráme ... AH</item>
+        <item>662. HojžeBože</item>
+        <item>663. Keď slnka jas ... AH</item>
+        <item>664. Kto pozná čas ... ML/AŽ</item>
+        <item>665. Márnosť vo svete ... JGL</item>
+        <item>666. Musíme raz všetci umrieť ... AH</item>
+        <item>667. Na poliach ... AH</item>
+        <item>668. Nie svet a imanie ... JH</item>
+        <item>669. Pane, jak chceš ... TG/ML</item>
+        <item>670. Po nemnohých dňoch ... AH</item>
+        <item>671. Prečo svet bojuje ... JL</item>
+        <item>672. Svetská nádhera a sláva ... AŽ</item>
+        <item>673. Všetci ľudia umrieť musia ... AŽ</item>
+        <item>674. Bože, Pane večnosti... AŽ</item>
+        <item>675. Dobrý boj som na svete ... AH</item>
+        <item>676. Ja som pre večnosť ... TG</item>
+        <item>677. Keď príde tá hodina ... JK</item>
+        <item>678. Môj Bože, viem ... ML/TG</item>
+        <item>679. Môj život je Kristus Pán ... ML</item>
+        <item>680. Niet chvíle v živote ... PG</item>
+        <item>681. Pane Kriste, to viem iste ... AŽ</item>
+        <item>682. S tebou sa rozžehnávam ... TG</item>
+        <item>683. Tak blahoslavený ... TG</item>
+        <item>684. Duše všetkých verných ... AH</item>
+        <item>685. Hviezda v noci... AH</item>
+        <item>686. Keď Pán Ježiš k súdu príde... AH/sl. 6-7</item>
+        <item>687. Ku koncu sa deň skláňa ... DA/AH</item>
+        <item>688. Len do Tvojich rúk</item>
+        <item>689. Mysli na súd ... TG</item>
+        <item>690. Nemýľte sa</item>
+        <item>691. Precitnite! Z veže znie hlas ... AH</item>
+        <item>692. Spočívajte už v pokoji ... AH</item>
+        <item>693. Utíšme plač ... DF/MLATG</item>
+        <item>694. Už sa blíži ten čas ... TG</item>
+        <item>695. Veľmi milujem Ťa, Pane ... JGL/AŽ</item>
+        <item>696. Verím to pevne ... VPČ</item>
+        <item>697. Viem ja, že v nebi ... ML/JL</item>
+        <item>698. Vzkriesenie čakáme ... VPC</item>
+        <item>699. Žiaľ, ešte neprišiel čas ... Sk</item>
+        <item>700. Život je Boží dar</item>
+
+    </string-array>
+    <string-array name="antifony_titles">
+        <item>1. - 10. Adventné</item>
+        <item>11. - 19. Vianočné</item>
+        <item>20. - 24. Na rozhraní rokov</item>
+        <item>25. - 31. Pôstne</item>
+        <item>32. - 37. Veľkonočné</item>
+        <item>38. - 40. Vstúpenie Krista Pána</item>
+        <item>41. - 45. Zoslanie Ducha Svätého</item>
+        <item>46. - 48. Trojjediný Boh</item>
+        <item>49. - 61. Nedele potrojičné</item>
+        <item>62. - 68. Cirkev a jej pôsobenie</item>
+        <item>69. - 75. Sviatosti</item>
+        <item>76. - 77. Poďakovanie za úrody</item>
+        <item>78. - 80. Kajúce dni</item>
+        <item>81. - 83. Pamiatka zosnulých</item>
+        <item>84. - 89. Iné</item>
+    </string-array>
+    <string-array name="pasie_titles">
+        <item>Kvetná nedeľa</item>
+        <item>Veľký piatok</item>
+        <item>Smrtná nedeľa</item>
+        <item>Prípravné modlitby pred Večerou Pánovou</item>
+        <item>Ďakovná modlitba po Večeri Pánovej</item>
+    </string-array>
+    <string-array name="funebral_titles">
+        <item>1. Ach, milý Pane</item>
+        <item>2. Dopraj mi s Tebou prebývať</item>
+        <item>3. Ježisa neopustím</item>
+        <item>4. Ach, môj drahý Kriste Pane</item>
+        <item>5. Keď Pán Ježiš k súdu príde</item>
+        <item>6. Ó, Bože, v láske bohatý</item>
+        <item>7. Ach, poteš, Pane, smutní sme</item>
+        <item>8. Bože svätý, Tvoja moc</item>
+        <item>9. Aj keď nás smrť zarmucuje</item>
+        <item>10. Ó, zmiluj sa! Ty si spása</item>
+        <item>11. Dozreli k žatve</item>
+        <item>12. Čo sa toľko staráme</item>
+        <item>13. Pane môj, chcem byť Tvoj</item>
+        <item>14. Potrebné je vždy premýšľať</item>
+        <item>15. Čože raz prinesiem</item>
+        <item>16. Dobre koná ten, kto pozná</item>
+        <item>17. Hospodin sám je Pastier môj</item>
+        <item>18. Len do Tvojich rúk, Spasiteľu</item>
+        <item>19. Mysli na súd, lebo je istý</item>
+        <item>20. Ja viem, že žije Ježiš môj</item>
+        <item>21. Kde si, môj premilý</item>
+        <item>22. Ja sa lúčim už s vami</item>
+        <item>23. Žije Ježiš, môj život</item>
+        <item>24. Duchu Svätý, obdar nás</item>
+        <item>25. Je uložené umrieť všetkým</item>
+        <item>26. Kristus Pán riekol, keď skonával</item>
+        <item>27. Ja som pre večnosť narodený</item>
+        <item>28. Skala vekov, Tvoja skrýš</item>
+        <item>29. Príroda zo sna vstáva</item>
+        <item>30. Ježiši, drahý poklad môj</item>
+        <item>31. Ježiši, ako chceš</item>
+        <item>32. Kde si, môj Ježiši, láska moja</item>
+        <item>33. Keď príde tá hodina</item>
+        <item>34. Kto ma z tejto cudziny</item>
+        <item>35. Pred Teba, Otče náš</item>
+        <item>36. Na poliach stíchol ruch</item>
+        <item>37. Svieť, svetlo, svieť</item>
+        <item>38. Musíme raz všetci umrieť</item>
+        <item>39. Utíšme plač v smutnej chvíli</item>
+        <item>40. Nebojte sa, ľudia</item>
+        <item>41. Ty útechy zdroj stály</item>
+        <item>42. Už od vás k Pánu odchádzam</item>
+        <item>43. Nie svet a imanie</item>
+        <item>44. Spočívajte už v pokoji</item>
+        <item>45. Už končí sa letný čas</item>
+        <item>46. Už blíži sa ten čas práve</item>
+        <item>47. Verím, že život</item>
+        <item>48. Vstaň srdce a s radosťou pozri</item>
+        <item>49. Už nový život plesá</item>
+        <item>50. Ach, jak blahoslavený je</item>
+        <item>51. Hľa, človek žil a už ho viac niet</item>
+        <item>52. Precitnite! Z veže znie hlas</item>
+        <item>53. Okolo nás smútok vanie</item>
+        <item>54. Pán volá k sebe dietky</item>
+        <item>55. Tá krása zeme vôkol</item>
+        <item>56. Čas náš ako krásne leto</item>
+        <item>57. Láskavý Pán, Ty hľadíš</item>
+        <item>58. To, Pane Kriste, viem iste</item>
+        <item>59. Na ceste tvojho žitia</item>
+        <item>60. Ako rýchlo na tom svete</item>
+        <item>61. Hospodin dáva nám</item>
+        <item>62. Uprostred krátkeho veku</item>
+        <item>63. Život je Boží dar</item>
+        <item>64. Blažení sú zosnulí</item>
+        <item>65. Ak je Pánu Bohu milé</item>
+        <item>66. Prečo svet bojuje</item>
+        <item>67. Bože, Pane večnosti</item>
+        <item>68. Ja v Boha milého dúfam</item>
+        <item>69.  K Tebe, Bože všemohúci</item>
+        <item>70. Pánu Bohu ja smiem veriť</item>
+        <item>71. Po nemnohých dňoch</item>
+        <item>72. Všetci ľudia umrieť musia</item>
+        <item>73. Veľmi milujem Ťa, Pane</item>
+        <item>74. Čo môj Boh chce, to sa vždy staň</item>
+        <item>75. Života nášho každý rok</item>
+        <item>76. Nad svojím tmavým hrobom</item>
+        <item>77. Tam, kde je v tichosti</item>
+        <item>78. Márnosť vo svete, samá márnosť</item>
+        <item>79. Pane, jak chceš nalož so mnou</item>
+        <item>80. Kiež viac Ťa milujem</item>
+        <item>81. Ku komu pôjdeme</item>
+        <item>82. Keď príde raz ten posledný boj</item>
+        <item>83. Ach, zbor premilý</item>
+        <item>84. Môj život je Kristus Pán</item>
+        <item>85. Bože, z Tvojej milosti</item>
+        <item>86. Viem ja, že v nebi</item>
+        <item>87. Prepusť, prepusť ma, môj Pane</item>
+        <item>88. Deň za dňom odlieta</item>
+        <item>89. Dobrý boj so na svete</item>
+        <item>90. Keď života beh dokonám raz</item>
+        <item>91. Hodina mi prišla</item>
+        <item>92. Náš život je Boží dar</item>
+        <item>93. Dosť už je, dosť!</item>
+        <item>94. Už je dosť dní života môjho</item>
+        <item>95. Srdce mi po Tebe túži</item>
+        <item>96. Svetská nádhera a sláva</item>
+        <item>97. Môj Pane, ako slnce jasné</item>
+        <item>98. Do rúk Božích porúčame</item>
+        <item>99. Po svojej večnej spáse túžim</item>
+        <item>100. Len hosťom som na zemi</item>
+        <item>101. Otče, Ty si život dal</item>
+        <item>102. Večný Bože, Tvoje roky</item>
+        <item>103. Akže sme už mnoho dobrého</item>
+        <item>104. Čím väčší kríž, tým bližšie nebo</item>
+        <item>105. Cez súženia a bôle</item>
+        <item>106. Ježiš, moja radosť</item>
+        <item>107. Kde sú verné zástupy</item>
+        <item>108. Keď bolesť blíži sa</item>
+        <item>109. Ježiš ma miluje</item>
+        <item>110. Keď žiaľu bremeno nás tlačí</item>
+        <item>111. Krížom trápený</item>
+        <item>112. Po chvíľach ťažkých</item>
+        <item>113. Pokorne, tíško, milá duša</item>
+        <item>114. Pán Boh mi je silou</item>
+        <item>115. Čo Boh činí, to dobré je</item>
+        <item>116. S tebou sa rozžehnávam</item>
+        <item>117. Z hlbokosti k Tebe volám</item>
+        <item>118. Zo srdca vrúcne žiadam</item>
+        <item>119. Tak blahoslavený</item>
+        <item>120. Ach, jak krátky je náš čas</item>
+        <item>121. Aj keď neviem ako, kde</item>
+        <item>122. Nič nemám drahšie</item>
+        <item>123. Pamätajme na to všetci</item>
+        <item>124. Počúvaj, pútnik</item>
+        <item>125. Ó, smrť, si krutý hosť</item>
+        <item>126. Niet chvíle v živote</item>
+        <item>127. Na svoju smrť sa rozpomeň</item>
+        <item>128. Vzbuď sa, človeče</item>
+        <item>129. Včera žil a dnes ho už niet</item>
+        <item>130. Aký biedny, aký krátky</item>
+        <item>131. Kto pozná čas</item>
+        <item>132. Dnes žijem</item>
+        <item>133. Môj Bože, viem</item>
+        <item>134. Divné volíš, Bože, cesty</item>
+        <item>135. Keď ťa schytí žitia vír</item>
+        <item>136. Ťažká rana bolí, páli</item>
+        <item>137. Rýchly posol smrti prišiel</item>
+        <item>138. Zamysli sa, ó, človeče</item>
+        <item>139.</item>
+        <item>140. Hrob nie je väzením</item>
+        <item>141. Keď ťa zmorí žitia zhon</item>
+        <item>142. Nad hriechom aj nad smrťou</item>
+        <item>143. Smieť žiť pre Krista</item>
+        <item>144. Rozlúčme sa, nezúfajme</item>
+        <item>145. K Tebe, ó, Bože môj</item>
+        <item>146. Kto za pravdu horí</item>
+        <item>147. Už toto telo kryje zem</item>
+        <item>148. Idem už do hrobu</item>
+        <item>149. Keď slnka jas a svetlo hviezd</item>
+        <item>150. Zbohom buďte, všetci</item>
+        <item>151. Zostaň so mnou, Pane milý</item>
+        <item>152. Verím to pevne</item>
+        <item>153. Rozlúčme sa s týmto telom</item>
+        <item>154. Hojže, Bože, jak to bolí</item>
+        <item>155. Vzkriesenie čakáme</item>
+    </string-array>
+    <string-array name="funebral_antifony_titles">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
+        <item>32.</item>
+        <item>33.</item>
+        <item>34.</item>
+        <item>35.</item>
+        <item>36.</item>
+        <item>37.</item>
+        <item>38.</item>
+        <item>39.</item>
+        <item>40.</item>
+        <item>41.</item>
+        <item>42.</item>
+        <item>43.</item>
+        <item>44.</item>
+        <item>45.</item>
+        <item>46.</item>
+        <item>47.</item>
+        <item>48.</item>
+        <item>49.</item>
+        <item>50.</item>
+        <item>51.</item>
+        <item>52.</item>
+        <item>53.</item>
+        <item>54.</item>
+        <item>55.</item>
+        <item>56.</item>
+        <item>57.</item>
+        <item>58.</item>
+        <item>59.</item>
+        <item>60.</item>
+        <item>61.</item>
+        <item>62.</item>
+        <item>63.</item>
+        <item>64.</item>
+        <item>65.</item>
+    </string-array>
+    <string-array name="liturgia_titles">
+        <item>Confirma Deus</item>
+        <item>Konfiteor</item>
+        <item>Všeobecná viera kresťanská</item>
+        <item>Desať Božích prikázaní</item>
+        <item>Litánia na závierku občianskeho roka</item>
+    </string-array>
+    <string-array name="predspevy_titles">
+        <item>Rosu dajte, nebesá zhora</item>
+        <item>Slovo sa stalo telom</item>
+        <item>Neopúšťaj ma, Hospodine</item>
+        <item>Kristus Pán vstal z mŕtvych</item>
+        <item>Ó Ježiši</item>
+        <item>Najsvätejší</item>
+        <item>Poďakujme</item>
+        <item>Nešporný predspev</item>
+        <item>Pomoc naša</item>
+        <item>Otvorteže sa, brány večnosti</item>
+        <item>Ajhľa, vstupujeme</item>
+        <item>Otče nebeský</item>
+    </string-array>
+    <string-array name="vecera_panova_titles">
+        <item>Prefácia, Sanctus</item>
+        <item>Otče náš</item>
+        <item>Slová ustanovenia</item>
+        <item>Agnus Dei - Baránok Boží</item>
+    </string-array>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
